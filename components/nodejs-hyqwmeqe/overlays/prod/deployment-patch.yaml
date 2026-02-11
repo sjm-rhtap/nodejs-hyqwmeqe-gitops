@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/rhtap-task-runner:latest
+      - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/nodejs-hyqwmeqe:c9d8aaf2b6fc3d05f03639d7f086f6f8980fc0f3@sha256:36281b24b1b0950b5c3e990bddb2742fd9d4120b2b97629c1fcc0aeb90618d71
         name: container-image  
